@@ -1,6 +1,6 @@
 # Karten mit Python erstellen
 
-Credits to *"https://github.com/symmy596/towards-data-science-articles"*
+Credits to *https://github.com/symmy596/towards-data-science-articles*
  
 
 | Thema | Region | Datenquellen |
@@ -47,11 +47,11 @@ Credits to *"https://github.com/symmy596/towards-data-science-articles"*
 
 ---
 
-[Topographie Deutschlands mit Python](https://github.com/GeowazM/python-maps/tree/master/topographie/germany.png)
-![alt text](https://github.com/GeowazM/python-maps/tree/master/topographie/germany.png)
+[Topographie Deutschlands mit Python](https://github.com/GeowazM/python-maps/blob/master/topographie/germany.png)
+![alt text](https://github.com/GeowazM/python-maps/blob/master/topographie/germany.png)
 
-[Karte der CO2 Emissionen erstellt mit Python](https://github.com/GeowazM/python-maps/tree/master/emissionen/raw6.png)
-![alt text](https://github.com/GeowazM/python-maps/tree/master/emissionen/raw6.png)
+[Karte der CO2 Emissionen erstellt mit Python](https://github.com/GeowazM/python-maps/blob/master/emissionen/raw6.png)
+![alt text](https://github.com/GeowazM/python-maps/blob/master/emissionen/raw6.png)
 
 [Visualising the World’s Carbon Dioxide Emissions with Python](https://towardsdatascience.com/visualising-the-worlds-carbon-dioxide-emissions-with-python-e9149492e820)
 ![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/CO2_Emissions/Outputs/raw8.png)
