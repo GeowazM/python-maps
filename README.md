@@ -1,13 +1,16 @@
-# Dieses Repo ist eine Sammlung von Skripten zur Erstellung von Karten mit Python
+# Karten mit Python erstellen
 
-### Forked vom Repo "https://github.com/symmy596/towards-data-science-articles"
+Credits to *"https://github.com/symmy596/towards-data-science-articles"*
  
 
 | Thema | Region | Datenquellen |
 |-------|-----|---------|
 | Topographie | Deutschland | [USGS - GMTED2010](https://www.usgs.gov/coastal-changes-and-impacts/gmted2010) |
-| Emissionen | Weltweit | [EDGAR - Emissions Database for Global Atmospheric Research](https://edgar.jrc.ec.europa.eu/dataset_ghg2024) |
+| Bevölkerung | Europa | 123 |
+| Emissionen | Weltweit | [EDGAR - Emissions Database](https://edgar.jrc.ec.europa.eu/dataset_ghg2024) |
+| Wälder | Europa | 123 |
 
+---
 
 ### Library
 #### Allgemeine
@@ -21,6 +24,7 @@
 - Shapely 
 - earthpy
 
+---
 
 ## Anaconda Umgebung vorbereiten
 ### Anaconda prüfen & aktualisieren
@@ -41,9 +45,13 @@
 
 > <span style="color:blue">conda install conda-forge::geopandas</span> | *Beispiel für die Installation einer Library*
 
+---
 
-[Creating Beautiful Topography Maps with Python](https://towardsdatascience.com/creating-beautiful-topography-maps-with-python-efced5507aa3)
-![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/Italy_Topography/outputs/italy.png)
+[Topographie Deutschlands mit Python](https://github.com/GeowazM/python-maps/tree/master/topographie/outputs/germany.png)
+![alt text](https://github.com/GeowazM/python-maps/tree/master/topographie/outputs/germany.png)
+
+[Karte der CO2 Emissionen erstellt mit Python](https://github.com/GeowazM/python-maps/tree/master/emissionen/outputs/raw6.png)
+![alt text](https://github.com/GeowazM/python-maps/tree/master/emissionen/outputs/raw6.png)
 
 [Visualising the World’s Carbon Dioxide Emissions with Python](https://towardsdatascience.com/visualising-the-worlds-carbon-dioxide-emissions-with-python-e9149492e820)
 ![alt text](https://github.com/symmy596/towards-data-science-articles/blob/master/CO2_Emissions/Outputs/raw8.png)
